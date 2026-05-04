@@ -1,2 +1,2 @@
 # invoice-extractor
-An invoice extractor using EasyOCR and PyMuPDF
+An invoice extractor using local EasyOCR and PyMuPDF
